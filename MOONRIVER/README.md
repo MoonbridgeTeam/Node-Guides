@@ -159,5 +159,5 @@ systemctl start moonriver.service
 ```
 ### 9. You can also check the logs by executing:
 ```bash
-journalctl -f -u moonriver.service
+journalctl -f -u moonriver.service 
 ```
